@@ -30,6 +30,5 @@ client.run(token, bot=False)
 
 
 #Discord: ArviS#0011
-#Discord Sunucum: https://discord.gg/strangerthingstr
 
 #İnstagram: @arvis_here
